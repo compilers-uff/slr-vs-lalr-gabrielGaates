@@ -1,5 +1,6 @@
 # SLR vs LALR
-
+Nome: Gabriel de Souza Candido   
+Matricula 216031107
 Trabalho da disciplina Compiladores 2021.1
 
 Data de entrega 23/07/21
